@@ -287,4 +287,10 @@ input:focus{
     #navbottom a{
         margin: 0 12px;
     }
+    .nav-n-b span{
+        width: 18px;
+        height: 18px;
+        line-height: 18px;
+        font-size: 5px;
+    }
 }
